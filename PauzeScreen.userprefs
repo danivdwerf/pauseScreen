@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/PauseMenu/Pause/PauseUI.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/PauseMenu/Pause/PauseUI.cs" Line="11" Column="26" />
+      <File FileName="Assets/_Scripts/PauseMenu/Pause/PauseLogic.cs" Line="61" Column="26" />
+      <File FileName="Assets/_Scripts/PauseMenu/Pause/PauseInputHandler.cs" Line="15" Column="50" />
+      <File FileName="Assets/_Scripts/PauseMenu/Pause/OptionsUI.cs" Line="35" Column="52" />
+      <File FileName="Assets/_Scripts/PauseMenu/SavingLoading/LoadFile.cs" Line="31" Column="39" />
+      <File FileName="Assets/_Scripts/PauseMenu/SavingLoading/SaveFile.cs" Line="27" Column="71" />
+      <File FileName="Assets/_Scripts/PauseMenu/SavingLoading/SaveManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PauseMenu/Audio/AudioUI.cs" Line="49" Column="29" />
+      <File FileName="Assets/_Scripts/PauseMenu/Audio/AudioLogic.cs" Line="14" Column="45" />
+      <File FileName="Assets/_Scripts/PauseMenu/SettingValues.cs" Line="10" Column="56" />
+      <File FileName="Assets/_Scripts/PauseMenu/Video/ChangeQuality.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PauseMenu/Video/QualityButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PauseMenu/Video/QualityUI.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
